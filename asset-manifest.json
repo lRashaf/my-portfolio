@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.1383211a.css",
-    "main.js": "./static/js/main.6698598e.js",
-    "static/js/453.b05d8aa5.chunk.js": "./static/js/453.b05d8aa5.chunk.js",
-    "static/media/project 4.png": "./static/media/project 4.1c350698d10110dc9d50.png",
-    "static/media/home page (2).png": "./static/media/home page (2).50726a0792f8074286bf.png",
-    "static/media/proj1.png": "./static/media/proj1.86ec8bb02090b284d2fe.png",
-    "static/media/salati.png": "./static/media/salati.ce1d78482d46fded0d0c.png",
-    "static/media/tickets.png": "./static/media/tickets.f7bcc290bbedbf1f69a8.png",
-    "static/media/61.png": "./static/media/61.53f9698c29160bcda6d1.png",
-    "static/media/HIKE UI.png": "./static/media/HIKE UI.27d4a55a768e985ce66f.png",
-    "static/media/bg-light.png": "./static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "./static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/aman.png": "./static/media/aman.f8304b349c821f8d83b0.png",
-    "static/media/time app.png": "./static/media/time app.6d39a00cb06e6ed5cf44.png",
-    "static/media/Rectangle 1.png": "./static/media/Rectangle 1.9f39f717c3adc0ef31a1.png",
-    "index.html": "./index.html",
-    "main.1383211a.css.map": "./static/css/main.1383211a.css.map",
-    "main.6698598e.js.map": "./static/js/main.6698598e.js.map",
-    "453.b05d8aa5.chunk.js.map": "./static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.602da734.css",
+    "main.js": "/my-portfolio/static/js/main.3abedb93.js",
+    "static/js/453.9415623e.chunk.js": "/my-portfolio/static/js/453.9415623e.chunk.js",
+    "static/media/project 4.png": "/my-portfolio/static/media/project 4.1c350698d10110dc9d50.png",
+    "static/media/home page (2).png": "/my-portfolio/static/media/home page (2).50726a0792f8074286bf.png",
+    "static/media/proj1.png": "/my-portfolio/static/media/proj1.86ec8bb02090b284d2fe.png",
+    "static/media/salati.png": "/my-portfolio/static/media/salati.ce1d78482d46fded0d0c.png",
+    "static/media/tickets.png": "/my-portfolio/static/media/tickets.f7bcc290bbedbf1f69a8.png",
+    "static/media/61.png": "/my-portfolio/static/media/61.53f9698c29160bcda6d1.png",
+    "static/media/HIKE UI.png": "/my-portfolio/static/media/HIKE UI.27d4a55a768e985ce66f.png",
+    "static/media/bg-light.png": "/my-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/my-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/aman.png": "/my-portfolio/static/media/aman.f8304b349c821f8d83b0.png",
+    "static/media/time app.png": "/my-portfolio/static/media/time app.6d39a00cb06e6ed5cf44.png",
+    "static/media/Rectangle 1.png": "/my-portfolio/static/media/Rectangle 1.9f39f717c3adc0ef31a1.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.602da734.css.map": "/my-portfolio/static/css/main.602da734.css.map",
+    "main.3abedb93.js.map": "/my-portfolio/static/js/main.3abedb93.js.map",
+    "453.9415623e.chunk.js.map": "/my-portfolio/static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1383211a.css",
-    "static/js/main.6698598e.js"
+    "static/css/main.602da734.css",
+    "static/js/main.3abedb93.js"
   ]
 }
